@@ -14,3 +14,5 @@ they read posts URL document using Google Doc Api and post comments on the posts
 2. Create a Google Cloud Platform project and enable the Google Docs API
 3. Create a service account and download the credentials JSON file
 
+## Example Google Doc
+![Google Doc Screenshot](example-doc.png)
