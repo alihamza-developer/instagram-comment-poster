@@ -12,7 +12,8 @@ they read posts URL document using Google Doc Api and post comments on the posts
 
 1. Create a Google Doc and add the posts URLs in the document
 2. Create a Google Cloud Platform project and enable the Google Docs API
-3. Create a service account and download the credentials JSON file
+3. Create a service account and download the credentials JSON file and place at main directory
+4. Open config.js file then setup (InstaCredentials, sheetId , sheetName)
 
 ## Example Google Doc
 ![Google Doc Screenshot](example-doc.png)
