@@ -1,7 +1,7 @@
-const USERNAME = "alihamza.developer",
-    PASSWORD = "hamza_6545640",
-    SHEET_ID = '1W6sRZo03uSnWeP05RkxdmOIkm7TKGIhBZ1gkX8qEYUk',
-    SHEET_NAME = 'Sheet1';
+const USERNAME = "YOUR_INSTAGRAM_USER_NAME",
+    PASSWORD = "YOUR_INSTAGRAM_PASSWORD",
+    SHEET_ID = 'GOOGLE_SHEET_ID',
+    SHEET_NAME = 'SHEET_NAME';
 
 
 export {
